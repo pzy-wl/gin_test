@@ -976,50 +976,50 @@
       <change afterPath="$PROJECT_DIR$/../evidence.api/venv/pyvenv.cfg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../evidence.api/websocket/clientManage.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../evidence.api/websocket/message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ginTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cgo/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cron/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/docs.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/swagger.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/swagger.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/main_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/crypto/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/moduel.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/reademe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/recerver/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/sender/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/test/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flag/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flag/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_so/aplugin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_so/libadd.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_so/reademe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash/reademe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logindemo/logindemo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logindemo/reademe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mashall/mashal_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/key.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signAndVerify/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signAndVerify/reademe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signAndVerify/rsa.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/1_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/login_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validator/1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validator/1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validator/reademe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zip/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zip/reademe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/.idea/ginTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/cgo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/cron/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/docs/docs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/docs/swagger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/docs/swagger.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/excel/1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/excel/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/excel/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/excel/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/file/crypto/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/file/moduel.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/file/reademe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/file/recerver/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/file/sender/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/file/test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/flag/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/flag/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/go_so/aplugin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/go_so/libadd.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/go_so/reademe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/hash/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/hash/reademe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/hash/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/logindemo/logindemo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/logindemo/reademe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/mashall/mashal_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/model/key.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/signAndVerify/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/signAndVerify/reademe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/signAndVerify/rsa.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/test/1_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/test/login_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/test/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/validator/1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/validator/1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/validator/reademe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/zip/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginTest/zip/reademe.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../go-cgo/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../go-cgo/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../go-cgo/.idea/vcs.xml" afterDir="false" />
@@ -7580,8 +7580,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/excel" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
