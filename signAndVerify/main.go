@@ -17,24 +17,26 @@ func main() {
 	fmt.Printf("公钥：%v\n私钥：%v\n", publicKey, privateKey)
 
 	rsaObj := NewRsa(publicKey, privateKey)
-	secretData, err := rsaObj.Encrypt([]byte(content))
+	//使用接收方公钥对数据进行加密
+	secretData, err := rsaObj.Encrypt([]byte("hello golang"))
 	if err != nil {
 		fmt.Println(err)
 	}
+	//对密文进行签名（使用自己的私钥）
 	sign, _ := rsaObj.Sign(secretData, crypto.SHA1)
+	fmt.Println("签名是：", sign)
+	fmt.Println("密文是：", string(secretData))
 	verify := rsaObj.Verify(secretData, sign, crypto.SHA1)
+	//对机密数据进行解密
+	if !verify {
+		fmt.Println("验签失败 ，密文无效")
+		return
+	}
+	fmt.Println("验签成功， 正在进解密")
 	plainData, err := rsaObj.Decrypt(secretData)
 	if err != nil {
 		fmt.Print(err)
 	}
-
-	//data := []byte(strings.Repeat(content, 200))
-	//sign,_ := rsaObj.Sign(data, crypto.SHA1)
-	//verify := rsaObj.Verify(data, sign, crypto.SHA1)
-
-	//sign, _ := rsaObj.Sign(data, crypto.SHA256)
-	//verify := rsaObj.Verify(data, sign, crypto.SHA256)
-
 	fmt.Printf(" 加密：%v\n 解密：%v\n 签名：%v\n 验签结果：%v\n",
 		hex.EncodeToString(secretData),
 		string(plainData),

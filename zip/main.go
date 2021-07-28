@@ -13,14 +13,14 @@ import (
 
 func main() {
 	var array []string
-	array = append(array, "/mnt/k/v")
-	array = append(array, "/mnt/a/b")
-	err := Zip("/mnt/logindemo.zip", "1", array)
+	array = append(array, "./zip/reademe.md")
+	array = append(array, "./zip/rsa_test.go")
+	err := Zip("./zip/123.zip", "", array)
 	if err != nil {
 		fmt.Println(err)
 	}
 	// err = UnZip("/mnt/logindemo.zip", "1", "./") //解压相对路径
-	err = UnZip("/mnt/logindemo.zip", "1", "/")
+	err = UnZip("./zip/123.zip", "", "./zip/file")
 	if err != nil {
 		fmt.Println(err)
 	}
