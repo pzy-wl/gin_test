@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94cdcb55-20fd-40c0-824c-80780852d415" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/closure/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../a/a2/hex_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../a/a2/hex_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../a/a2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../a/a2/main.go" afterDir="false" />
@@ -157,9 +158,7 @@
       <change beforePath="$PROJECT_DIR$/../ginTest/zip/file/zip/reademe.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ginTest/zip/main.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ginTest/zip/reademe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/pack/pack.go" beforeDir="false" afterPath="$PROJECT_DIR$/init/pack/pack.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-cgo/dll/reademe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../go-cgo/dll/reademe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-cgo/so/aplugin.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-cgo/so/aplugin.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-cgo/so/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-cgo/so/main.go" afterDir="false" />
@@ -249,13 +248,22 @@
       <recent name="D:\work\ginTest\myxs\dh" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build ginTest/init">
+  <component name="RunManager" selected="Go Build.go build ginTest/closure">
     <configuration name="go build ginTest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="ginTest" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="ginTest" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ginTest/closure" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ginTest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/closure/main.go" />
+      <package value="ginTest/closure" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -286,22 +294,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ginTest/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="ginTest" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/test/main.go" />
-      <package value="ginTest/test" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build ginTest/closure" />
         <item itemvalue="Go Build.go build ginTest/init" />
         <item itemvalue="Go Build.go build ginTest/ginserver" />
         <item itemvalue="Go Build.go build ginTest/ginserver/gin" />
         <item itemvalue="Go Build.go build ginTest" />
-        <item itemvalue="Go Build.go build ginTest/test" />
       </list>
     </recent_temporary>
   </component>
