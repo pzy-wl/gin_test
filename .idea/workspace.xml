@@ -35,6 +35,131 @@
       <change beforePath="$PROJECT_DIR$/../ecdh25519" beforeDir="false" afterPath="$PROJECT_DIR$/../ecdh25519" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../evidence.api/blockChainSdk/fabricBroker/utils/structure.go" beforeDir="false" afterPath="$PROJECT_DIR$/../evidence.api/blockChainSdk/fabricBroker/utils/structure.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../evidence.api/common/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/../evidence.api/common/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.a/libenclave.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.a/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.idea/ginTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/gin/client/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/gin/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/gin/server/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/go/client/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/go/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/go/server/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/server.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/TLS/server.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/cgo/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/cron/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/csv/csv.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/csv/csv_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/csv/file/newfile.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/csv/file1/newfile.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/csv/newfile.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/csv/newfile1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/docker/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/docker/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/docker/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/docs/docs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/docs/swagger.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/docs/swagger.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/excel/1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/excel/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/excel/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/excel/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/crypto/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/download/file1_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/download/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/download/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/gzip/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/gzip/util.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/moduel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/recerver/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/sender/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/test/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/file/test/string_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/flag/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/flag/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/gin/docs/docs.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/gin/docs/swagger.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/gin/docs/swagger.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/gin/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/gin/ssl/ssl.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/gin/ssl/ssl.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/httpAndhttps/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/ginserver/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go_so/aplugin.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go_so/go_so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go_so/libadd.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go_so/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go_so/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go_so/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/go_so/test/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/hash/file/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/hash/hash.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/hash/hash_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/hash/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/hash/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/hash/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/invokeInit/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/mutiInit/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/pack/pack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/sandBox/a.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/sandBox/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/sandBox/z.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/init/test_util/test_util.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/logindemo/logindemo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/logindemo/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/marshall/mashal_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/model/key.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/dh/db_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/dh/dh.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/dh/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/dh/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/dh/rsa.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/dh/rsa_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/dh1/dh.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/ecdh/ecdh.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/ecdh/ecdh_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/ecdh/generic.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/ecdh/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/num_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/myxs/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/rsa/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/rsa/rsa.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/signAndVerify/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/signAndVerify/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/signAndVerify/rsa.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/test/1_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/test/login_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/test/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/test/test.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/time/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/time/time_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/utils/gzip.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/validator/1/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/validator/1/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/validator/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/zip/123.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/zip/file/zip/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/zip/file/zip/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/zip/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ginTest/zip/reademe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init/pack/pack.go" beforeDir="false" afterPath="$PROJECT_DIR$/init/pack/pack.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-cgo/dll/reademe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../go-cgo/dll/reademe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-cgo/so/aplugin.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-cgo/so/aplugin.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-cgo/so/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-cgo/so/main.go" afterDir="false" />
@@ -124,7 +249,7 @@
       <recent name="D:\work\ginTest\myxs\dh" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build ginTest/ginserver">
+  <component name="RunManager" selected="Go Build.go build ginTest/init">
     <configuration name="go build ginTest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="ginTest" />
       <working_directory value="$PROJECT_DIR$" />
@@ -152,12 +277,12 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build ginTest/logindemo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ginTest/init" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="ginTest" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/logindemo/logindemo.go" />
-      <package value="ginTest/logindemo" />
+      <filePath value="$PROJECT_DIR$/init/main.go" />
+      <package value="ginTest/init" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -172,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build ginTest/init" />
         <item itemvalue="Go Build.go build ginTest/ginserver" />
         <item itemvalue="Go Build.go build ginTest/ginserver/gin" />
         <item itemvalue="Go Build.go build ginTest" />
         <item itemvalue="Go Build.go build ginTest/test" />
-        <item itemvalue="Go Build.go build ginTest/logindemo" />
       </list>
     </recent_temporary>
   </component>

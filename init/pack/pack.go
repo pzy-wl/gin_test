@@ -1,10 +1,9 @@
 package pack
 
 import (
-	"bee/init/test_util"
 	"fmt"
+	"ginTest/init/test_util"
 )
-
 
 //init 函数先执行被依赖的包中的init函数
 var Pack int = 6
